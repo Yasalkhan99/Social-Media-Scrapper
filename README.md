@@ -36,21 +36,19 @@ It's perfect for:
 
 ---
 
-## 📈 GitHub Stats
+### 🧠 Project Contribution Summary
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yasalkhan99&show_icons=true&theme=radical" width="450" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasalkhan99&layout=compact&theme=radical" width="350" />
-</p>
+| Feature         | Description                      |
+|----------------|----------------------------------|
+| 👨‍💻 Main Developer | Yasal Khan                    |
+| 🧰 Tools Used     | Selenium, Python, Pandas        |
+| 🔄 Platforms      | Google, Facebook, Instagram     |
+| 📦 Data Archived  | JSON, CSV, Database options     |
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-</p>
 
+![Maintained](https://img.shields.io/badge/Maintained-Yes-brightgreen)
+![Automation](https://img.shields.io/badge/Automation-Fully_automated-yellow)
+![License](https://img.shields.io/github/license/Yasalkhan99/Social-Media-Scrapper)
 
 ---
 
